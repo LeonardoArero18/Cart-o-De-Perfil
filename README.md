@@ -1,16 +1,16 @@
-##Cartão de Perfil
+# Cartão de Perfil
 Este projeto é uma aplicação React simples que demonstra o uso de componentes reutilizáveis para exibir informações de perfil e uma lista de contatos.
 
 O objetivo é mostrar como a arquitetura baseada em componentes permite a criação de interfaces de usuário modulares e organizadas, facilitando a manutenção e a reutilização de código.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 React.js: A biblioteca JavaScript para construir interfaces de usuário.
 
 JSX: A extensão de sintaxe do JavaScript utilizada para descrever a interface.
 
 CSS: Para estilização e layout dos componentes.
 
-Estrutura do Projeto
+# Estrutura do Projeto
 O projeto é composto por alguns componentes principais:
 
 App.js: O componente principal que renderiza a aplicação. Ele importa e utiliza os componentes CardProfile e Contacts.
