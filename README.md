@@ -4,17 +4,17 @@ Este projeto é uma aplicação React simples que demonstra o uso de componentes
 O objetivo é mostrar como a arquitetura baseada em componentes permite a criação de interfaces de usuário modulares e organizadas, facilitando a manutenção e a reutilização de código.
 
 # Tecnologias Utilizadas
-React.js: A biblioteca JavaScript para construir interfaces de usuário.
+- React.js: A biblioteca JavaScript para construir interfaces de usuário.
 
-JSX: A extensão de sintaxe do JavaScript utilizada para descrever a interface.
+- JSX: A extensão de sintaxe do JavaScript utilizada para descrever a interface.
 
-CSS: Para estilização e layout dos componentes.
+- CSS: Para estilização e layout dos componentes.
 
 # Estrutura do Projeto
 O projeto é composto por alguns componentes principais:
 
-App.js: O componente principal que renderiza a aplicação. Ele importa e utiliza os componentes CardProfile e Contacts.
+- App.js: O componente principal que renderiza a aplicação. Ele importa e utiliza os componentes CardProfile e Contacts.
 
-CardProfile.js: Um componente reutilizável que recebe dados via props para exibir um cartão de perfil com nome, idade e biografia.
+- CardProfile.js: Um componente reutilizável que recebe dados via props para exibir um cartão de perfil com nome, idade e biografia.
 
-Contacts.js: Um componente dedicado a mostrar as informações de contato.
+- Contacts.js: Um componente dedicado a mostrar as informações de contato.
