@@ -18,3 +18,7 @@ O projeto é composto por alguns componentes principais:
 - CardProfile.js: Um componente reutilizável que recebe dados via props para exibir um cartão de perfil com nome, idade e biografia.
 
 - Contacts.js: Um componente dedicado a mostrar as informações de contato.
+
+
+<img width="572" height="400" alt="image" src="https://github.com/user-attachments/assets/724fddbd-f484-447c-b86d-5fea3422516d" />
+
